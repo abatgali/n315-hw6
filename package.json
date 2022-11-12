@@ -1,0 +1,14 @@
+{
+  "name": "hw-six",
+  "version": "1.0.0",
+  "description": "JSON clickable objects",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "Anant Batgali",
+  "license": "ISC"
+}
